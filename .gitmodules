@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "largeList"]
-	path = largeList
-	url = https://github.com/yuchun-zhang/r_largelist
-	shallow = true
-	subdir = largeList
-	registered = true
